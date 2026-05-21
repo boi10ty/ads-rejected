@@ -1,7 +1,7 @@
 import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
-    title: 'Page Ads-Policy Review',
+    title: '',
 };
 
 export default function AccountQualityStatusLayout({
